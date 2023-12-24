@@ -330,7 +330,11 @@
 .message h2 a:hover {
     opacity: 1;
 }
-
+@media screen and (max-width: 600px) {
+    .message h1 {
+      font-size: 40px; 
+    }
+  }
 @-webkit-keyframes bodyLaugh {
     0% {
         top: 0px;
