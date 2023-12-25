@@ -17,7 +17,7 @@ var wishList = [
   "Dui dẻ không quạo",
   " cái nịt <br/>('_')--O",
   "Của bạn hết 20k",
-  "Của bạn hết 40k",
+  "Của bạn hết 400k",
   " tấm thân này <br/> ('3')~♥",
 ]
 var iconList = [
